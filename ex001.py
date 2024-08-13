@@ -67,6 +67,41 @@
 #============================================================================================================================================================================
 
 
-# EX003
+# EXEMPLO
+
+#n = input('Digite um valor ')
+#print(n.isnumeric())
+#print(n.isalpha())
+#print(n.isupper())
+#print(n.islower())
+#print(n.isidentifier())
+#print(n.isprintable())
+#print(n.isspace())
+#print(n.istitle())
+#print(n.isprintable())
+
+#================================================================
+
+
+#  EX003
+
+# ' Faça algum programa que leia algo pelo teclado e mostre na tela
+# o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+#   a = input('Digite algo: ')
+
+#print(type(a))   # tipo primitivo
+#print(a.isnumeric())   # é número ?
+#print(a.isalpha())   #  é alpha ?
+#print(a.islower())   #  é letra minuscula ?
+#print(a.isupper())   #  é letra maiuscula ?
+#print(a.istitle())   #  é um titulo ?
+#print(a.isprintable())   #  é printavel ?
+#print(a.isspace())   #  é espaço ?
+#print(a.capitalize())  #  primeira letra maiuscula e resto minuscula
+#print(a.isidentifier())   # python identifica ?
+
+
+#============================================================
 
 
