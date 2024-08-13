@@ -88,18 +88,18 @@
 # ' Faça algum programa que leia algo pelo teclado e mostre na tela
 # o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-#   a = input('Digite algo: ')
+#a = input('Digite algo: ')
 
-#print(type(a))   # tipo primitivo
-#print(a.isnumeric())   # é número ?
-#print(a.isalpha())   #  é alpha ?
-#print(a.islower())   #  é letra minuscula ?
-#print(a.isupper())   #  é letra maiuscula ?
-#print(a.istitle())   #  é um titulo ?
-#print(a.isprintable())   #  é printavel ?
-#print(a.isspace())   #  é espaço ?
-#print(a.capitalize())  #  primeira letra maiuscula e resto minuscula
-#print(a.isidentifier())   # python identifica ?
+#print('qual o tipo ? ',type(a))  # tipo primitivo
+#print('é um número ? ',a.isnumeric())   # é número ?
+#print('é alfanumérico ? ',a.isalpha())   #  é alpha ?
+#print('é letra minuscula ?',a.islower())   #  é letra minuscula ?
+#print('é letra maiuscula ? ',a.isupper())   #  é letra maiuscula ?
+#print('alfabético',a.istitle())   #  é um titulo ?
+#print('é printavel ? ',a.isprintable())   #  é printavel ?
+#print('é espaçoso ? ',a.isspace())   #  é espaço ?
+#print('é captalizado ? ',a.capitalize())  #  primeira letra maiuscula e resto minuscula
+#print('python identifica ? ',a.isidentifier())   # python identifica ?
 
 
 #============================================================
